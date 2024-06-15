@@ -1,5 +1,7 @@
 # Aplikacja Lista Zadań + Timer Pomodoro
 
+Autorzy: Paweł Bartkowicz (128218), Alan Borzozowski (128283)
+
 ## Opis
 Jest to mobilna aplikacja stworzona przy użyciu React Native i Expo, która łączy funkcjonalność listy zadań z timerem techniki Pomodoro. Aplikacja umożliwia użytkownikowi zarządzanie zadaniami oraz korzystanie z efektywnej metody zarządzania czasem, jaką jest Pomodoro. Dzięki zastosowaniu bazy danych SQLite przy użyciu `expo-sqlite`, dane użytkownika są przechowywane lokalnie na urządzeniu. Grafiki wygenerowane przez AI za pomocą https://copilot.microsoft.com
 ## Funkcje
