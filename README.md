@@ -36,8 +36,8 @@ Aby uruchomić aplikację lokalnie, wykonaj następujące kroki:
 4. **Uruchomienie emulatora Androida:**
     - Otwórz Android Studio.
     - Przejdź do `Device Manager`.
-    - Wybierz `Pixel 8 Pro Android 13.0` lub dowolne inne urządzenie/emulator.
-    - Wybierz emulator lub fizyczne urządzenie.
+    - Wybierz `Pixel 8 Pro Android 13.0`
+    - Wybierz emulator
     - Dla systemu Android kliknij `A`, aby połączyć się z serwerem Expo i uruchomić aplikację.
 
 ## Użycie
